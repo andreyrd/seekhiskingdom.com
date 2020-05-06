@@ -11,6 +11,7 @@ You can listen to it in several places:
 * [YouTube](https://www.youtube.com/channel/UClgL2s_O8Ky4HkFInyPB_NA)
 * [IGTV](https://www.instagram.com/seekhiskingdom/channel/)
 * [Podbean](https://seekhiskingdom.podbean.com/)
+* [RSS Feed](https://feed.podbean.com/seekhiskingdom/feed.xml)
 * More links will be posted as we register with the 200 different services, hah.
 
 You can also always just search for "Seek His Kingdom" in your favorite podcast app, and it should show up. If it does not, please contact us and we'll get it on there!
