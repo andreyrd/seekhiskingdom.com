@@ -14,6 +14,12 @@
       <a href="https://pca.st/pz4pgp3v" target="_blank">
         <img src="@/assets/Badges_pocketcasts_medium_light.svg">
       </a>
+      <a href="https://open.spotify.com/show/6o6stfFYKCtkD9PxsvTTgV" target="_blank">
+        <img src="@/assets/spotify-podcast-badge-wht-grn-165x40.svg">
+      </a>
+      <a href="https://overcast.fm/itunes1512314752/seek-his-kingdom" target="_blank">
+        <img src="@/assets/badge-overcast.svg">
+      </a>
       <a href="https://seekhiskingdom.podbean.com" target="_blank">
         <img height="48" src="//d8g345wuhgd7e.cloudfront.net/site/images/badges/b600.png">
       </a>
@@ -54,7 +60,7 @@ export default {
 
 .sources {
   display: flex;
-  max-width: 600px;
+  max-width: 720px;
   margin: 0 auto;
   flex-direction: row;
   flex-wrap: wrap;
