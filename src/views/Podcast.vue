@@ -8,8 +8,11 @@
       <a href="https://www.youtube.com/channel/UClgL2s_O8Ky4HkFInyPB_NA" target="_blank">
         <img height="34" src="@/assets/yt_logo_rgb_dark.png">
       </a>
-      <a href="https://podcasts.apple.com/us/podcast/seek-his-kingdom/id1512314752">
-        <img src="@/assets/apple_podcasts.svg" target="_blank">
+      <a href="https://podcasts.apple.com/us/podcast/seek-his-kingdom/id1512314752" target="_blank">
+        <img src="@/assets/apple_podcasts.svg">
+      </a>
+      <a href="https://pca.st/pz4pgp3v" target="_blank">
+        <img src="@/assets/Badges_pocketcasts_medium_light.svg">
       </a>
       <a href="https://seekhiskingdom.podbean.com" target="_blank">
         <img height="48" src="//d8g345wuhgd7e.cloudfront.net/site/images/badges/b600.png">
@@ -51,6 +54,8 @@ export default {
 
 .sources {
   display: flex;
+  max-width: 600px;
+  margin: 0 auto;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
