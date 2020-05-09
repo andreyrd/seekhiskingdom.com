@@ -8,9 +8,9 @@
       <a href="https://www.youtube.com/channel/UClgL2s_O8Ky4HkFInyPB_NA" target="_blank">
         <img height="34" src="@/assets/yt_logo_rgb_dark.png">
       </a>
-      <!-- <a href="">
+      <a href="https://podcasts.apple.com/us/podcast/seek-his-kingdom/id1512314752">
         <img src="@/assets/apple_podcasts.svg" target="_blank">
-      </a> -->
+      </a>
       <a href="https://seekhiskingdom.podbean.com" target="_blank">
         <img height="48" src="//d8g345wuhgd7e.cloudfront.net/site/images/badges/b600.png">
       </a>
