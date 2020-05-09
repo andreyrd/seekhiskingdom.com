@@ -49,11 +49,11 @@ a {
   color: white;
   text-decoration: none;
   line-height: 48px;
-  font-size: 22px;
+  font-size: 20px;
 
   @media (max-width: 540px) {
     margin: 0 8px;
-    font-size: 20px;
+    font-size: 19px;
   }
 
   @media (max-width: 400px) {
