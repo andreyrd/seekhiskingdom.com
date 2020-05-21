@@ -2,7 +2,7 @@
   <div class="podcasts">
     <Feature size="small" :img="require('@/assets/podcast.jpg')" text="Podcast" />
     <p>
-      Our podcast is now live! To listen and view episodes online, visit our Podbean site.
+      Our podcast is now live! To listen to and view episodes online, visit our Podbean site.
     </p>
     <div class="sources">
       <a href="https://seekhiskingdom.podbean.com" target="_blank">
