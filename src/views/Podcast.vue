@@ -2,7 +2,15 @@
   <div class="podcasts">
     <Feature size="small" :img="require('@/assets/podcast.jpg')" text="Podcast" />
     <p>
-      Our podcast is now live!
+      Our podcast is now live! To listen and view episodes online, visit our Podbean site.
+    </p>
+    <div class="sources">
+      <a href="https://seekhiskingdom.podbean.com" target="_blank">
+        <img height="48" src="//d8g345wuhgd7e.cloudfront.net/site/images/badges/b600.png">
+      </a>
+    </div>
+    <p>
+      Or choose from any of the other places you can listen!
     </p>
     <div class="sources">
       <a href="https://www.youtube.com/channel/UClgL2s_O8Ky4HkFInyPB_NA" target="_blank">
@@ -19,9 +27,6 @@
       </a>
       <a href="https://overcast.fm/itunes1512314752/seek-his-kingdom" target="_blank">
         <img src="@/assets/badge-overcast.svg">
-      </a>
-      <a href="https://seekhiskingdom.podbean.com" target="_blank">
-        <img height="48" src="//d8g345wuhgd7e.cloudfront.net/site/images/badges/b600.png">
       </a>
       <a href="https://feed.podbean.com/seekhiskingdom/feed.xml" target="_blank">
         <img height="64" src="@/assets/rss.svg">
