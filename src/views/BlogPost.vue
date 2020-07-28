@@ -1,6 +1,6 @@
 <template>
 	<div class="blog post">
-		<Feature :img="require('@/assets/blog.jpg')" text="What does it mean to be worldly?" size="small" />
+		<Feature :img="require('@/assets/blog-post.jpg')" text="What does it mean to be worldly?" size="small" />
 		<div class="author">Daniel Bozhko</div>
 
 		<p class="quote">
