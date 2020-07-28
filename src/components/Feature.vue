@@ -7,14 +7,14 @@
 
 <script>
 export default {
-  props: {
-    img: String,
-    text: String,
-    size: {
-      type: String,
-      default: 'large',
-    },
-  },
+	props: {
+		img: String,
+		text: String,
+		size: {
+			type: String,
+			default: 'large',
+		},
+	},
 };
 </script>
 
