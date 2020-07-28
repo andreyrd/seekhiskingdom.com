@@ -6,6 +6,7 @@
     </router-link>
     <div class="spacer"></div>
     <router-link to="/podcast">Podcast</router-link>
+    <router-link to="/blog">Blog</router-link>
     <a href="https://instagram.com/seekhiskingdom" target="_blank">Instagram</a>
     <router-link to="/about">About</router-link>
   </nav>

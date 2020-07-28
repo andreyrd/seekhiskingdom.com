@@ -3,6 +3,9 @@
     <router-link to="/podcast" class="feature">
       <Feature :img="require('@/assets/podcast.jpg')" text="Podcast" />
     </router-link>
+    <router-link to="/blog" class="blog">
+      <Feature :img="require('@/assets/blog.jpg')" text="Blog" />
+    </router-link>
     <a href="https://instagram.com/seekhiskingdom">
       <Feature :img="require('@/assets/instagram.jpg')" text="Instagram" />
     </a>
